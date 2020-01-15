@@ -1,0 +1,229 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	color: #151515;
+	background-color: #EFF5F8;
+}
+#wrapper {
+	width: 100%;
+	min-width: 900px;
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 8px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-image: url(../images/grad.png);
+	background-repeat: repeat-y;
+}
+#logo {
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+
+}
+#logo-address {
+	float: right;
+	margin-bottom: 45px;
+	font-size: large;
+	margin-top: 20px;
+}
+#address {
+	float: right;
+	font-size: large;
+
+
+}
+
+#mainnav {
+	clear: both;
+	margin-bottom: 13px;
+	z-index: 126;
+	position: relative;
+}
+#mainnav ul    {
+	/* [disabled]list-style-type: none; */
+	/* [disabled]padding-top: 0px; */
+	/* [disabled]padding-right: 0px; */
+	/* [disabled]padding-bottom: 0px; */
+	/* [disabled]padding-left: 0px; */
+	/* [disabled]margin-top: 0px; */
+	/* [disabled]margin-right: 0px; */
+	/* [disabled]margin-bottom: 0px; */
+	/* [disabled]margin-left: 0px; */
+	text-align: center;
+
+
+}
+.sf-with-ul {
+	text-align: center;
+
+}
+#hero {
+	/* [disabled]margin-left: auto !important; */
+	/* [disabled]margin-right: auto !important; */
+	/* [disabled]clear: none; */
+}
+
+#hero img {
+	background-color: white;
+	-webkit-box-shadow: 1px 1px 15px #999999;
+	box-shadow: 1px 1px 15px #999999;
+	border-radius: 4px;
+	width: 900px;
+	height: 230px;
+}
+#holiday_notification {
+	color: #F31215;
+	font-weight: bold;
+	font-size: x-large;
+	overflow-x: hidden;
+}
+
+#holiday_notification div {
+	padding-top: 7px;
+	/* [disabled]margin-top: -8px; */
+}
+
+
+
+#main {
+	width: 675px;
+	float: left;
+	margin-bottom: 10px;
+}
+#description {
+	margin-left: 250px;
+}
+
+
+#services {
+	border-radius: 46px;
+	border: 5px double #48577D;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#timing {
+	margin-left: 92px;
+}
+dt {
+	float: left;
+	clear: left;
+	font-weight: bold;
+
+}
+dd {
+	margin-left: 193px;
+	font-weight: bold;
+	line-height: 160%;
+}
+
+
+
+blockquote.testi {
+}
+
+
+span.tesi-namedates {
+	text-align: right;
+	background-color: gray;
+}
+
+#sidebar {
+	float: left;
+	width: 24%;
+	margin-left: 1%;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#slider p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#social_links p {
+	font-weight: bold;
+	padding-top: 8px;
+	margin-bottom: 4px;
+}
+
+
+.sidebar-frame{
+background-color: #EBE8E2;
+	border-radius: 8px;
+	margin-bottom: 25px;
+	-webkit-box-shadow: 1px 1px 15px white;
+	box-shadow: 1px 1px 15px white;
+}
+
+
+
+
+
+
+#foot {
+	text-align: center;
+	clear: left;
+	background-color: #48577D;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	/* [disabled]width: 0px; */
+	color: #FFFFFF;
+	margin-left: -20px;
+	margin-right: -20px;
+
+}
+figure {
+
+}
+
+figure.potrait {
+	width: 220px;
+}
+
+figure.facility {
+	width: 660px;
+}
+figure.implant_description {
+	width: 290px;
+}
+
+figcaption {
+	display: block;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+}
+figure img {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: white;
+	-webkit-box-shadow: 1px 1px 15px #999999;
+	box-shadow: 1px 1px 15px #999999;
+}
+.centered {
+	margin-left: auto;
+	margin-right: auto;
+}
+.floatleft {
+	float: left;
+	margin-right: 10px;
+	margin-left: 0px;
+}
+.floatright {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0px;
+}
